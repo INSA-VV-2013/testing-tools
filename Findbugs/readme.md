@@ -1,5 +1,5 @@
-Objectifs
-=========
+Objectives
+==========
 
 - Summarize the objectives and functionalities of Findbugs
 - Prepare a demo with a faulty program, of the different features of Findbugs

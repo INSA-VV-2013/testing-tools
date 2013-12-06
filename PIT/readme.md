@@ -1,5 +1,5 @@
-Objectifs
-=========
+Objectives
+==========
 
 - Summarize the objectives and functionalities of PIT
 - Prepare a demo with a faulty program, of the different features of PIT
