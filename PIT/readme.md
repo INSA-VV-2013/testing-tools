@@ -8,5 +8,14 @@ Objectives
 Infos
 =====
 
-Tested with pitest-command-line-0.32 .
-The provided classpath needs pitest-0.32.jar & pitest-command-line-0.32.jar to be in the lib directory.
+To run the pit test.
+
+launch goal
+
+mvn org.pitest:pitest-maven:mutationCoverage 
+
+See http://pitest.org/quickstart/maven/ for more details.
+
+To Do :
+
+Add test case for echa mutator
