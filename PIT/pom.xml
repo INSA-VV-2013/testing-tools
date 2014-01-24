@@ -27,13 +27,17 @@
 			<plugin>
 				<groupId>org.pitest</groupId>
 				<artifactId>pitest-maven</artifactId>
+				<version>0.32</version>
 				<configuration>
 					<targetClasses>
-						<param>vvt.pit.code.*</param>
+						<param>vvt.pit.code.Calculatrice</param>
 					</targetClasses>
 					<targetTests>
-						<param>vvt.pit.test.*</param>
+						<param>vvt.pit.test.CalculatriceTest</param>
 					</targetTests>
+					<mutators>
+					    <mutator>DEFAULTS</mutator>
+					</mutators>
 				</configuration>
 			</plugin>
 		
