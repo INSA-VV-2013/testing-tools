@@ -1,0 +1,1 @@
+C:\Users\Bamako\workspace\RandoopTesting\bin>java -classpath .;randoop.1.3.4.jar randoop.main.Main gentests --testclass=MyString.MyString --timelimit=10 --string-maxlen=50 --literals-file=literals.txt --literals-level=ALL
